@@ -27,16 +27,17 @@ wheels/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data files
+# Data files (CSV files are large - don't commit)
 data/raw/
 data/processed/
 *.csv
 *.parquet
 
-# Vector store
+# Vector store (large binary files - don't commit)
 vector_store/
 *.faiss
 *.pkl
+*.npy
 
 # Environment variables
 .env
@@ -65,3 +66,6 @@ htmlcov/
 *.zip
 *.tar.gz
 *.npy
+*.onnx
+*.pt
+*.pth
