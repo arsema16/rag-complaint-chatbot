@@ -1,0 +1,34 @@
+﻿# Core data processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# NLP and embeddings
+sentence-transformers==2.2.2
+transformers==4.36.2
+
+# LangChain for RAG
+langchain==0.1.0
+langchain-community==0.1.0
+
+# Vector databases
+chromadb==0.4.24
+faiss-cpu==1.7.4
+
+# UI
+gradio==4.16.0
+streamlit==1.29.0
+
+# Utilities
+tqdm==4.66.1
+nltk==3.8.1
+scikit-learn==1.4.0
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Testing
+pytest==8.0.0
