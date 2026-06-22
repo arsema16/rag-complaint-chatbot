@@ -1,0 +1,2 @@
+﻿# Placeholder for sources display screenshot
+# Replace this file with actual screenshot
